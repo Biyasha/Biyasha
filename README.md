@@ -86,11 +86,6 @@ An AI-powered desktop application that automates Excel operations including data
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Biyasha&theme=github-dark)
 
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Biyasha&theme=algolia&row=1&column=6)
 
 ---
 
