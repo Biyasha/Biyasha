@@ -24,18 +24,16 @@
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=python,html,css,js,mysql)
 
-### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=bootstrap,flask)
+### Libraries
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
-- Qt Designer
+
 
 ---
 
