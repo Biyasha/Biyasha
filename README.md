@@ -1,66 +1,65 @@
 # Hi 👋, I'm Dominic Biyasha
+### Computer Science Engineering (Artificial Intelligence & Machine Learning) Student | Python Developer | Web Developer
 
-### Computer Science Engineering (AI & ML) Student | Python Developer | Web Developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-biyasha)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biyasha)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DBiyasha)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominic%20Biyasha-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-biyasha)
-[![GitHub](https://img.shields.io/badge/GitHub-Biyasha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biyasha)
-[![X](https://img.shields.io/badge/X-DBiyasha-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DBiyasha)
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.E. Computer Science and Engineering (Artificial Intelligence & Machine Learning)
-- 🏫 KGiSL Institute of Technology (2025–2029)
-- 💻 Passionate about software development, Python programming, and building practical, real-world applications
-- 🚀 Constantly learning new technologies and sharpening my skills through hands-on projects
+![Profile Views](https://komarev.com/ghpvc/?username=Biyasha&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-`Python` `HTML5` `CSS3` `JavaScript` `SQL`
-
-**Frameworks & Libraries**
-`Bootstrap` `Flask` `Streamlit` `Pandas` `OpenCV`
-
-**Databases**
-`MySQL` `SQLite`
-
-**Tools**
-`Git` `GitHub` `VS Code` `PyCharm` `Qt Designer` `Postman`
+## 💫 About Me
+- 🎓 B.E. Computer Science Engineering (Artificial Intelligence & Machine Learning)
+- 🏫 KGiSL Institute of Technology (2025 – 2029)
+- 💻 Passionate about Software Development, Python, and Web Development
+- 🚀 Building practical projects to strengthen my programming skills
+- 🌱 Currently learning Java, Data Structures & Algorithms, Cloud & DevOps
+- 🎯 Aspiring Software Engineer
 
 ---
 
-## 📂 Featured Project
+## 💻 Tech Stack
+
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,html,css,js,mysql)
+
+### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=bootstrap,flask)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman)
+
+- Qt Designer
+
+---
+
+## 🚀 Featured Project
 
 ### 📊 PyXcel Automator
+An AI-powered desktop application that automates Excel operations including data cleaning, sheet merging, sorting, filtering, report generation, smart visualization, and AI-powered automation.
 
-An AI-powered desktop application that automates common Excel workflows:
+**Tech Stack**
+`Python` • `Pandas` • `PySide6` • `Git`
 
-- Data cleaning
-- Sheet merging
-- Sorting & filtering
-- Report generation
-- Smart data visualization
-- AI-powered automation
-
-**Tech Stack:** `Python` • `Pandas` • `PySide6` • `Git`
-
-🔗 [github.com/Biyasha/PyXcel](https://github.com/Biyasha/PyXcel)
+🔗 **Repository:** https://github.com/Biyasha/PyXcel
 
 ---
 
 ## 🎓 Education
 
-**B.E. Computer Science and Engineering (AI & ML)**
-KGiSL Institute of Technology · 2025 – 2029
+| Degree | Institution | Duration |
+|---------|-------------|----------|
+| B.E. Computer Science Engineering (AI & ML) | KGiSL Institute of Technology | 2025 – Present |
 
 ---
 
-## 🏆 Certifications & Achievements
-
+## 🏆 Certifications
 - Build Your Own Static Website — NxtWave CCBP 4.0 Academy
 - Build Your Own Responsive Website — NxtWave CCBP 4.0 Academy
 - Introduction to Databases (SQL) — NxtWave CCBP 4.0 Academy
@@ -70,22 +69,36 @@ KGiSL Institute of Technology · 2025 – 2029
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biyasha&show_icons=true&theme=github_dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biyasha&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Biyasha&theme=github-dark&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
-- 💼 LinkedIn: [linkedin.com/in/dominic-biyasha](https://www.linkedin.com/in/dominic-biyasha)
-- 💻 GitHub: [github.com/Biyasha](https://github.com/Biyasha)
-- 🐦 X (Twitter): [x.com/DBiyasha](https://x.com/DBiyasha)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Biyasha&theme=github-dark)
 
 ---
 
-*"Learning never stops. Every project is a step toward becoming a better developer."*
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Biyasha&theme=algolia&row=1&column=6)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/dominic-biyasha
+- 💻 GitHub: https://github.com/Biyasha
+- 🐦 X (Twitter): https://x.com/DBiyasha
+
+---
+
+> *"Learning never stops. Every project is another step toward becoming a better developer."*
